@@ -2,5 +2,5 @@ streamlit
 datetime
 yfinance
 plotly
-pystan
+Pystan
 fbprophet
