@@ -2,5 +2,5 @@ streamlit
 datetime
 yfinance
 plotly
-Pystan
+Pystan==2.19.1.1
 fbprophet
